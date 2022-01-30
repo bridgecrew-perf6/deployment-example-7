@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 { 
+    cursor: pointer;
+    text-align: center;
+    margin: 3em auto;
+}
+
+.blue {
+    color: midnightblue;
+}
+
+.green {
+    color: forestgreen;
+}
